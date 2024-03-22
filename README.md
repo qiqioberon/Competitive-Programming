@@ -1,4 +1,4 @@
-**Competitive Programming Repository**
+# **Competitive Programming Repository**
 
 **Overview:**
 Welcome to the Competitive Programming Repository! This repository serves as a collection of my C++ solutions to various programming problems sourced from online judges. While the majority of the solutions are from Sphere Online Judge (SPOJ) at present, this repository aims to showcase my proficiency in competitive programming and serve as a valuable resource for interview preparation and skill demonstration.
